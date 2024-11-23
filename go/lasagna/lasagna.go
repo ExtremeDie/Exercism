@@ -1,6 +1,6 @@
 package lasagna
 
-// TODO: define the 'OvenTime' constant
+// define the 'OvenTime' constant
 const OvenTime = 40
 
 // RemainingOvenTime returns the remaining minutes based on the `actual` minutes already in the oven.
